@@ -1,4 +1,0 @@
-legajo,pin,nombre_apellido,dias_disponibles
-1001,4321,Juan Perez,14
-1002,7890,Fabian Morales,21
-1003,1111,Rolando Gomez,7
