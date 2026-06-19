@@ -1,1 +1,0 @@
-id_solicitud,legajo,fecha_inicio,dias_solicitados,estado,observaciones
