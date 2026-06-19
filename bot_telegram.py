@@ -224,7 +224,7 @@ async def salir(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 # ==========================================
 def main():
     # ⚠️ REEMPLAZAR ESTA CADENA POR EL TOKEN REAL QUE LES DIO @BotFather
-    TOKEN = "8800008400:AAFx6oulL9Dfp2Yj-swkgzEiPnf_lfjod5Q"
+    TOKEN = "TU_TOKEN_DE_TELEGRAM_AQUI"
     
     inicializar_archivos()
     application = Application.builder().token(TOKEN).build()
